@@ -1,0 +1,23 @@
+{
+  "name": "grouping-array-by-key",
+  "version": "1.0.0",
+  "description": "Takes an array and returns an object with values grouped into arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "group",
+    "groupByArray",
+    "grouping-array-by-key",
+    "arrays",
+    "key-value",
+    "group-by-array",
+    "group-array-by-key",
+    "grouping",
+    "grouping-array",
+    "merge-array"
+  ],
+  "author": "tech4biz <technical@tech4biz.io>",
+  "license": "ISC"
+}
